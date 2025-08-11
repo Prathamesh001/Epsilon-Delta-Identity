@@ -45,11 +45,17 @@ To run this script, simply save the code in a file named `epsilon_delta_verifica
 ```bash
 python epsilon_delta_verification.py
 ```
-### Contact Information
+
+## Acknowledgments
+
+This assignment was completed under the guidance of **Prof. Chandu Parimi**.
+
+## Contact Information
 
 Name: Prathamesh Varma\
 Phone: +91 7219204543\
 E-mail: prathamesh66523@gmail.com\
 Student: BITS Pilani Hyderabad Campus
+
 ---
 *README generated with assistance from AI.*
